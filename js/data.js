@@ -1,0 +1,2 @@
+// Order tracking stages shown in the customer tracker.
+window.ORDER_STEPS = [["Order placed","We’ve received your order and payment"],["Footage verified","Drive link opened, clips checked"],["Editor assigned","A creator picked up your reel"],["Editing in progress","Cuts, music and effects are being added"],["Quality check","Our team is reviewing the final cut"],["Delivered","Your reel is ready to download!"]];
